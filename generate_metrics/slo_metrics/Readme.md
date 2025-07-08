@@ -35,4 +35,4 @@ It creates mock disk utilization metrics for multiple hosts and mount points, sa
 Run the script:
 
 ```bash
-python generate_slo_metrics_data.py
+python disk_utilization_datageneration.py.py
